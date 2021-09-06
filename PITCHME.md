@@ -98,11 +98,6 @@ Todas as streams são instâncias do EventEmitter
 
 ---
 
-<!-- 
-_header: ''
-_footer: ''
--->
-
 ![bg](#282a36)
 ![h:480](./assets/event.png)
 
